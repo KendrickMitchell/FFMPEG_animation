@@ -1,0 +1,2 @@
+While frames can be manipulated without FFMPEG deriving frames from video and synthesizing video from frames can't happen without the use of FFMPEG.
+FFMPEG can be downloaded at https://ffmpeg.org/download.html
