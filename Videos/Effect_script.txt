@@ -1,0 +1,2 @@
+0,4,text,Arial.ttf,0,255,0,0,0,0,10,10,4,left,2,14,u"""edit thi \n here"""
+0,339,text,Arial.ttf,255,0,0,0,0,0,100,100,4,left,2,14,u"""edit thi \n here"""
